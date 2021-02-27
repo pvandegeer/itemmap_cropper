@@ -13,7 +13,7 @@ email=pvandegeer@gmail.com
 about=This plugin crops (resizes) the map item on a layout to precisely fit a map layer. This is usefull if you have a rectangular sized map. 
     Usage: 
     - Select the map on your layout 
-    - Activate the plugin through the (context) menu or button 
+    - Activate the plugin through the menu or button
     - Select constraining layer from the list
     
     The map wil be fitted to the width of the map item on the layout. The height will be adjusted accordingly. In the item properties tab lock the aspect ratio and resize to your needs or hold SHIFT while manually resizing.
