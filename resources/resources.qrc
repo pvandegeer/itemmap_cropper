@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/itemmap_cropper" >
+        <file>mActionResizeToLayer.svg</file>
+    </qresource>
+</RCC>
