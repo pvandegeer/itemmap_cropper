@@ -18,8 +18,8 @@ about=This plugin crops (resizes) the map item on a layout to precisely fit a ma
     
     The map wil be fitted to the width of the map item on the layout. The height will be adjusted accordingly. In the item properties tab lock the aspect ratio and resize to your needs or hold SHIFT while manually resizing.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/pvandegeer/itemmap_cropper/issues
+repository=https://github.com/pvandegeer/itemmap_cropper
 # End of mandatory metadata
 
 # Recommended items:
@@ -31,8 +31,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python, layout, composer, map, crop, rectangular, resize, fit
 
-homepage=http://homepage
-category=Plugins
+# homepage=https://github.com/pvandegeer/itemmap_cropper
 icon=resources/icon.png
 # experimental flag
 experimental=False
