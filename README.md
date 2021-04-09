@@ -20,4 +20,4 @@ In the item properties tab lock the aspect ratio and resize to your needs or hol
 ![Itemp properties](/help/help_extemt_size.png)
 
 ## Changelog
-* 0.1 Initial version including als basic functionality
+* 0.1 Initial version including all basic functionality
