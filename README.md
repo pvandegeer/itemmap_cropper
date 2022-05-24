@@ -17,7 +17,7 @@ If your project contains more than one layer you will be asked which layer to cr
 
 The map wil be fitted to the width of the map item on the layout. The height will be adjusted accordingly.
 In the item properties tab lock the aspect ratio and resize to your needs or hold SHIFT while manually resizing.
-![Itemp properties](/help/help_extemt_size.png)
+![Itemp properties](/help/help_extent_size.png)
 
 ## Changelog
 * 0.1 Initial version including all basic functionality
